@@ -1,0 +1,27 @@
+body * {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+Add some style blocks below this line to style the card.
+*/
+
+section {
+    width: 350px;
+    margin: 10px;
+    border: solid 1px rgb(158, 158, 158);
+    padding-bottom: 20px;
+}
+
+section img {
+    width: 100%;
+}
+
+section p, section button, section h2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
